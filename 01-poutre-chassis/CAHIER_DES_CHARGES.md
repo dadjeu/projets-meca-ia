@@ -1,5 +1,4 @@
-# Cahier des charges — Projet 1 : Prédiction de la déformation et de la contrainte 
-# d'une poutre en porte-à-faux par modèle de substitution (Machine Learning)
+# Cahier des charges — Projet 1 : Prédiction de la déformation et de la contrainte d'une poutre en porte-à-faux par modèle de substitution (Machine Learning)
 
 ## 1. Contexte
 Le dimensionnement mécanique de pièces structurelles (ex: longerons de châssis 
